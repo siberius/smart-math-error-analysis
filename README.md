@@ -14,7 +14,7 @@ Secondary: a learner squares √(x + 2) = x and lists two candidates. Ask which 
 
 ## Status and materials
 
-First release as a written prompt for secondary and university education. Behaviour in specific models and file generation have not been tested. The chat provider processes your materials. Use public or anonymised sources.
+A written prompt for secondary and university education. Behaviour in specific models and file generation have not been tested. The chat provider processes your materials. Use public or anonymised sources.
 
 ## Sources of inspiration
 

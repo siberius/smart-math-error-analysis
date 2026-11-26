@@ -14,7 +14,7 @@ SŠ: žák řeší √(x + 2) = x a po umocnění zapíše dva kandidáty. Nech 
 
 ## Stav a podklady
 
-První vydání ve formě textového zadání pro SŠ a VŠ. Chování v konkrétních modelech a tvorbu souborů jsme neověřovali. Podklady zpracovává poskytovatel chatu. Používejte veřejné nebo anonymizované materiály.
+Textový prompt pro SŠ a VŠ. Chování v konkrétních modelech a tvorbu souborů jsme neověřovali. Podklady zpracovává poskytovatel chatu. Používejte veřejné nebo anonymizované materiály.
 
 ## Zdroje inspirace
 
