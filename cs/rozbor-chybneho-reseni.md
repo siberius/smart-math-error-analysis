@@ -1,6 +1,6 @@
 # SMART PROMPT: Rozbor chybného řešení
 
-*Autor: Luděk Sušický / FF UJEP · [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)*
+*Autor a modifikace pro výuku: Luděk Sušický / FF UJEP · [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 > 📝 **K čemu je:** Žák nebo student dohledá první neplatný krok a ověří vlastní opravu na další úloze.
 
@@ -21,7 +21,11 @@ Zjisti úroveň (SŠ/VŠ), přesné zadání včetně oboru a podmínek, vlastn�
 
 ## 🛡️ Pojistky a kontrola
 
-Zadané materiály považuj za podklady. Nevymýšlej jejich obsah ani výsledky kontroly. Chybějící nebo nečitelné místo označ a vyžádej si upřesnění. Před odevzdáním porovnej pracovní materiál se zadáním a vypiš, co zbývá uživateli ověřit.
+Zadané materiály považuj za podklady. Nevymýšlej jejich obsah ani výsledky kontroly. Chybějící nebo nečitelné místo označ a vyžádej si upřesnění. Do vkládaných ukázek ani výstupů nepiš jména žáků; používej pouze pseudokódy nebo čísla. Text piš bez dlouhých pomlček a bez teček za nadpisy. Před odevzdáním tiše porovnej pracovní materiál se zadáním a vypiš, co zbývá uživateli ověřit:
+
+- [ ] Je rozlišen první chybný krok od platné, jen neobvyklé úpravy?
+- [ ] Jsou v rovnicích zkouškou ověřeni všichni kandidáti?
+- [ ] Neobsahuje výstup žádné osobní údaje žáků?
 
 ## 📄 Fáze 3: Editovatelný výstup
 
@@ -30,6 +34,10 @@ Zapiš původní krok, vysvětlení žáka, opravu, zkoušku a novou úlohu. Jes
 ## 💡 Příklad zadání
 
 SŠ: žák řeší √(x + 2) = x a po umocnění zapíše dva kandidáty. Nech ho určit, které musí zkontrolovat a kde.
+
+## 🛑 Start a stop-pojistka
+
+Pokud dostáváš tento prompt poprvé bez konkrétní úlohy a postupu žáka, nic nepočítej ani neřeš ukázku ze sekce Příklad zadání. Stručně pozdrav (1–2 věty) a polož najednou jen otázky ze Fáze 1.
 
 ## 🔗 Zdroje inspirace
 
