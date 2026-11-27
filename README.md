@@ -2,6 +2,10 @@
 
 # Math Error Analysis
 
+> Article and context on Vibemaker: [Math Error Analysis](https://vibemaker.cz/clanek/rozbor-chybneho-reseni/)
+
+[![Math Error Analysis](docs/nahled.gif)](https://vibemaker.cz/clanek/rozbor-chybneho-reseni/)
+
 The learner finds the first invalid step and checks their own correction on a new problem.
 
 ## How to use
