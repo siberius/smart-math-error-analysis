@@ -4,7 +4,11 @@
 
 > Online článek a kontext na Vibemaker: [Rozbor chybného řešení](https://vibemaker.cz/clanek/rozbor-chybneho-reseni/)
 
-[![Rozbor chybného řešení](docs/nahled.gif)](https://vibemaker.cz/clanek/rozbor-chybneho-reseni/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/rozbor-chybneho-reseni/">
+    <img src="docs/nahled.gif" alt="Rozbor chybného řešení">
+  </a>
+</p>
 
 Žák nebo student dohledá první neplatný krok a ověří vlastní opravu na další úloze.
 

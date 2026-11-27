@@ -4,7 +4,11 @@
 
 > Article and context on Vibemaker: [Math Error Analysis](https://vibemaker.cz/clanek/rozbor-chybneho-reseni/)
 
-[![Math Error Analysis](docs/nahled.gif)](https://vibemaker.cz/clanek/rozbor-chybneho-reseni/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/rozbor-chybneho-reseni/">
+    <img src="docs/nahled.gif" alt="Math Error Analysis">
+  </a>
+</p>
 
 The learner finds the first invalid step and checks their own correction on a new problem.
 
